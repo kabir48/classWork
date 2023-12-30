@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 800px;
+    /* border: 1px solid#741919; */
+    box-shadow: 1px soild#f2f2f2;
+    margin-top: 60px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 2px 29px #f3f3f3;
+    padding: 30px;
+}
